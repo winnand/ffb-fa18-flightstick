@@ -7,3 +7,7 @@ Multiple angles of the full 3D model
 Screenshot of PCB (if applicable)
 Wiring diagram (if applicable)
 BOM in table format at the end of the README
+
+# Credit: 
+*pshakya980 on Printables for the Flight Stick model.	Link: https://www.printables.com/model/1268406-fa-18-flight-stick
+*TheSimNet on Thingiverse for the trigger module.		Link: http://www.thingiverse.com/thing:6289942
